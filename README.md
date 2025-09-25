@@ -18,13 +18,10 @@ School of Computer Science, The University of Sydney
 
 
 
-<img src='images/teaser_final.png'>
-
-
 ## Framework
 
 <p align="center">
-  <img src="images/training.png">
+  <img src="images/model_00.png">
 </p>
 
 
