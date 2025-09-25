@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> <img src="images/hobby.png" alt="PNG Image" width="25" height="25"> ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion</h1>
+<h1 align="center"> <img src="images/hobby.png" alt="PNG Image" width="25" height="25"> MusicWeaver: Coherent Long-Range and Editable Music Generation from a Beat-Aligned Structural Plan</h1>
 </p>
 
 <div align="center">
@@ -8,9 +8,8 @@
 
 School of Computer Science, The University of Sydney
 
-ACM MM 2025
 
-<a href='https://choreomuse.github.io'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+<a href='https://musicweaver.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 <a href=''><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
 
 </div>
@@ -37,7 +36,7 @@ If you find this project useful for your research, please consider citing the fo
 
 ```
 @inproceedings{choreomuse,
-  title     = {ChoreoMuse: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion},
+  title     = {MusicWeaver: Coherent Long-Range and Editable Music Generation from a Beat-Aligned Structural Plan},
   author    = {Wang, Xuanchen and Wang, Heng and Cai, Weidong},
   booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
   year      = {2025},
