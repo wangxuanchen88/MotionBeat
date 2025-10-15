@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> <img src="images/hobby.png" alt="PNG Image" width="25" height="25"> MusicWeaver: Coherent Long-Range and Editable Music Generation from a Beat-Aligned Structural Plan</h1>
+<h1 align="center"> <img src="images/hobby.png" alt="PNG Image" width="25" height="25"> MotionBeat: Motion-Aligned Music Representation via Embodied Contrastive Learning and Bar-Equivariant Contact-Aware Encoding</h1>
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 School of Computer Science, The University of Sydney
 
 
-<a href='https://musicweaver.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
+<a href='https://motionbeat2025.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 <a href=''><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
 
 </div>
@@ -21,7 +21,7 @@ School of Computer Science, The University of Sydney
 ## Framework
 
 <p align="center">
-  <img src="images/model_00.png">
+  <img src="images/model.png">
 </p>
 
 
