@@ -32,10 +32,9 @@ School of Computer Science, The University of Sydney
 If you find this project useful for your research, please consider citing the following paper:
 
 ```
-@inproceedings{choreomuse,
-  title     = {MusicWeaver: Coherent Long-Range and Editable Music Generation from a Beat-Aligned Structural Plan},
-  author    = {Wang, Xuanchen and Wang, Heng and Cai, Weidong},
-  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
-  year      = {2025},
+@article{wang2025musicweaver,
+  title={MusicWeaver: Coherent Long-Range and Editable Music Generation from a Beat-Aligned Structural Plan},
+  author={Wang, Xuanchen and Wang, Heng and Cai, Weidong},
+  journal={arXiv preprint arXiv:2509.21714},
+  year={2025}
 }
-```
